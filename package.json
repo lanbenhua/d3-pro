@@ -1,0 +1,33 @@
+{
+  "name": "d3-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanbenhua/d3-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanbenhua/d3-pro/issues"
+  },
+  "homepage": "https://github.com/lanbenhua/d3-pro#readme",
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "react-split-pane": "^0.1.92"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11"
+  },
+  "peerDependencies": {
+    "d3": "^7.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
